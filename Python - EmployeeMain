@@ -1,0 +1,6 @@
+from OOP.Employee import Employee
+
+employee = Employee('John', 'Doe', 2500, 'painter', 5)
+
+employee.employeeRecord()
+employee.salaryRaise()
